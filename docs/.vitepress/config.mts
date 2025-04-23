@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "全栈工具集",
   description: "全栈工具集x",
-  base: "/full-stack-tools/",
+  base: "/full-stack-tools",
   build: {
     outDir: 'docs/.vitepress/dist'   //构建产物输出目录
   },
