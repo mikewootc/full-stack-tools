@@ -5,7 +5,10 @@
 
 ### UI 设计
 
-* [Adobe Color](https://color.adobe.com/zh/create/color-wheel): 在线色轮(调色盘). 可用于协助生成比较和谐的配色方案.
+#### 配色
+
+* [Adobe Color](https://color.adobe.com/zh/create/color-wheel): 在线色轮(调色盘). 可用于协助生成比较和谐的配色方案. 它提供一个可供拖动的调色盘, 适合没有美工功底的人, 快速拉出一个还算不错的配色方案.
+* [配色工具-千图网](https://www.58pic.com/peise/): 它的 "智能配色" 功能可以根据你选择的颜色, 自动生成一组和谐的配色方案. 它的 "印象配色" 功能, 提供各种主色调对应的配色方案, 适合快速选择.
 
 ## 后端
 
