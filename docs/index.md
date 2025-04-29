@@ -14,6 +14,7 @@
 * [中国色](https://www.zhongguose.com/#diaozi): 提供大于500种中国传统色调的颜色. 不过它没有提供多种颜色搭配方案. 而且它的颜色没有分类比较混乱, 所以本站自制了一个分类后调色板: [点击跳转](./ChineseColors.md)
 * [AI Colors](https://aicolors.co/): 可以AI生成配色, 也有现成的配色方案可选. 不过个人认为它的配色没几个好看的, 它更有用的还是它还的提供手机界面, 网页界面等几个试色试图工具, 可以直观的看到每种配色的效果, 也可以手动编辑颜色来看效果. 可以用上面几种工具生成配色, 然后再这个网站上看效果.
 * [Spectrum.Art💎](https://spectrum.art/): 另一个可以用来选择配色方案的网站.
+* [WebGradients.com 💎](https://webgradients.com/): 提供多种渐变色配色方案的网站, 他们的渐变色还挺好看的.
 
 一般对于开发人员来说, 自主开发软件时, 使用上面列举的几种工具就够了. 如果还没有让你满意的方案, 也可以参考一下这篇文章: [设计师都爱用！51 个免费配色工具推荐：配色参考、技巧及灵感](https://cn.eagle.cool/blog/post/best-color-tools-for-designers)
 
