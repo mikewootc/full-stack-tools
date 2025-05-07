@@ -12,6 +12,7 @@
 * [配色工具-千图网](https://www.58pic.com/peise/): 它的 "智能配色" 功能可以根据你选择的颜色, 自动生成一组和谐的配色方案. 它的 "印象配色" 功能, 提供各种主色调对应的配色方案, 适合快速选择.
 * [Color Hunt](https://www.colorhunt.co/): 一个提供现成配色方案的网站, 每种方案提供4种颜色. 适合快速选择. 左侧分类提供不同的风格供选择.每天更新精选的配色方案，适合设计师和开发者快速获取灵感。支持按流行度、新近度等排序，并提供颜色代码。
 * [中国色](https://www.zhongguose.com/#diaozi): 提供大于500种中国传统色调的颜色. 不过它没有提供多种颜色搭配方案. 而且它的颜色没有分类比较混乱, 所以本站自制了一个分类后调色板: [点击跳转](./ChineseColors.md)
+* [中国传统颜色手册](https://colors.ichuantong.cn/): 另一个中国色网站, 相比上一个提供了分类, 点击右下角可以选择色系.
 * [AI Colors](https://aicolors.co/): 可以AI生成配色, 也有现成的配色方案可选. 不过个人认为它的配色没几个好看的, 它更有用的还是它还的提供手机界面, 网页界面等几个试色试图工具, 可以直观的看到每种配色的效果, 也可以手动编辑颜色来看效果. 可以用上面几种工具生成配色, 然后再这个网站上看效果.
 * [Spectrum.Art💎](https://spectrum.art/): 另一个可以用来选择配色方案的网站.
 * [WebGradients.com 💎](https://webgradients.com/): 提供多种渐变色配色方案的网站, 他们的渐变色还挺好看的.
@@ -24,9 +25,16 @@
 
 * [iconfont.cn](https://www.iconfont.cn/): 这个不用说了, 国人都知道的, 提供大量免费的高质量图标.
 
+* [Unicode Search 🔎](http://xahlee.info/comp/unicode_index.html?q=): Unicode 图标搜索.
+* [Emoji searcher](https://emoji.muan.co/#): 一个可以搜索 emoji 的网站.
+* [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/): 另一个 emoji 图标搜索网站.
+
+* [Free Logo Maker](https://logomakerr.ai/): 一个可以在线生成 logo 的网站.
+
 **图片**
 
 * [Pexels](https://www.pexels.com/zh-cn/): 提供大量免费的图片, 分辨率还算挺高.
+
 
 
 <!-- * [Unsplash](https://unsplash.com/): 提供大量免费的高质量图片.
