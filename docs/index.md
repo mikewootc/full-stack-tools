@@ -24,8 +24,12 @@
 
 * [iconfont.cn](https://www.iconfont.cn/): 这个不用说了, 国人都知道的, 提供大量免费的高质量图标.
 
+**图片**
+
+* [Pexels](https://www.pexels.com/zh-cn/): 提供大量免费的图片, 分辨率还算挺高.
+
+
 <!-- * [Unsplash](https://unsplash.com/): 提供大量免费的高质量图片.
-* [Pexels](https://www.pexels.com/): 提供大量免费的高质量图片.
 * [Pixabay](https://pixabay.com/): 提供大量免费的高质量图片和视频.
 * [IconPark](https://iconpark.bytedance.com/): 提供大量免费的高质量图标. -->
 
