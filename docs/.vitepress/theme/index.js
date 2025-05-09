@@ -11,6 +11,14 @@ export default {
       router.onAfterRouteChanged = () => {
         busuanzi.fetch()
       }
+
+      router.onAfterPageLoad = (to) => {
+        const script = document.createElement("script");
+        script.defer = true;
+        script.async = true;
+        script.src = "https://cn.vercount.one/js";
+        document.head.appendChild(script);
+      };
     }
   },
   

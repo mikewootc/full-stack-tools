@@ -71,16 +71,37 @@ AI 在崛起, 但是它让我们的工作变得更加轻松了吗? 并没有. �
 
 ## 运维
 
+### 统计
+
+
+[Busuanzi](https://busuanzi.ibruce.info/): 网站访问量统计工具. 不知道为什么本站在 github 上每次刷新页面都加2.
+
+[Vercount](https://vercount.one/): 另一个网站访问量统计工具, 据说是优化了Busuanzi的统计方式, 使得统计更加准确.
+
+本站示例:
+
+<p>
+    Busuanzi:
+    <!-- 本站总访问量 -->
+    本站总访问量: <span id="busuanzi_value_site_pv" />
+    <!-- 本站访客数 -->
+    本站访客数: <span id="busuanzi_value_site_uv" />
+</p>
+
+<p>
+    Vercount:
+    <span>
+    本站总访问量: <span id="vercount_value_site_pv">Loading</span> 次
+    </span>
+    <!-- 显示全站总访客数 -->
+    <span>
+    本站访客数: <span id="vercount_value_site_uv">Loading</span> 人次
+    </span>
+    <!-- 显示当前页面的访问量 -->
+    <span>
+    本文总阅读量 <span id="vercount_value_page_pv">Loading</span> 次
+    </span>
+</p>
+
+
 ## 其他 AI 工具
-
-
-<!-- 本站总访问量 -->
-<p>
-    <span id="busuanzi_value_site_pv" />
-</p>
-
-<!-- 本站访客数 -->
-<p>
-    <span id="busuanzi_value_site_uv" />
-</p>
-
