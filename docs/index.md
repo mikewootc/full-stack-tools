@@ -74,7 +74,7 @@ AI 在崛起, 但是它让我们的工作变得更加轻松了吗? 并没有. �
 ### 统计
 
 
-[Busuanzi](https://busuanzi.ibruce.info/): 网站访问量统计工具. 不知道为什么本站在 github 上每次刷新页面都加2.
+[Busuanzi](https://busuanzi.ibruce.info/): 网站访问量统计工具.
 
 [Vercount](https://vercount.one/): 另一个网站访问量统计工具, 据说是优化了Busuanzi的统计方式, 使得统计更加准确.
 
