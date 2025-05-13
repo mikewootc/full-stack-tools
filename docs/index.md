@@ -14,7 +14,7 @@ AI 在崛起, 但是它让我们的工作变得更加轻松了吗? 并没有. �
 - 测试运维
 - 个人IP与内容推广相关
 
- 如果您有什么好用的工具推荐, 欢迎发送邮件到 hepiworldai@2925.com.
+如果您有什么好用的工具推荐, 欢迎发送邮件到 hepiworldai@2925.com.
 
 ## 前端
 
@@ -50,7 +50,11 @@ AI 在崛起, 但是它让我们的工作变得更加轻松了吗? 并没有. �
 **图片**
 
 * [Pexels](https://www.pexels.com/zh-cn/): 提供大量免费的图片, 分辨率还算挺高.
+* [Wallhaven壁纸](https://wallhaven.cc/): 一个提供大量壁纸的网站.
 
+**其他**
+
+* [码力全开资源站](https://maliquankai.com/designnav/): 汇集产品、设计、独立开发者的高质量资源站. 不过好像有段时间没更新了.
 
 
 <!-- * [Unsplash](https://unsplash.com/): 提供大量免费的高质量图片.
@@ -63,6 +67,8 @@ AI 在崛起, 但是它让我们的工作变得更加轻松了吗? 并没有. �
 ### node.js 命令
 
 ### node.js Web 后端
+
+* [Cool Admin](https://vue.cool-admin.com/): 一个基于 Vue3 的 admin 后台管理系统, 后端有nodejs版本, 比较适合前端人员进行全栈开发, 支持AI生成代码后端与管理页面代码. 页面组件库是基于 element-plus 的.
 
 
 ## JS / TS 通用
@@ -105,3 +111,5 @@ AI 在崛起, 但是它让我们的工作变得更加轻松了吗? 并没有. �
 
 
 ## 其他 AI 工具
+
+[MCP Servers](https://mcp.so/): 号称是目前(2025-05-12)最大的 MCP 服务器集合。
