@@ -73,6 +73,8 @@ AI 在崛起, 但是它让我们的工作变得更加轻松了吗? 并没有. �
 
 ## JS / TS 通用
 
+* [TypeScript 入门教程](https://ts.xcatliu.com/): 一个 TypeScript 的入门教程, 挺简明清爽的.
+
 ## 测试
 
 ## 运维
