@@ -46,6 +46,7 @@ AI 在崛起, 但是它让我们的工作变得更加轻松了吗? 并没有. �
 - [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/): 另一个 emoji 图标搜索网站.
 
 - [Free Logo Maker](https://logomakerr.ai/): 一个可以在线生成 logo 的网站.
+- [favicon 生成](https://toolin.cn/favicon): 一个可以在线生成 ico图标 的网站. 还支持: 图片尺寸修改, 图片裁剪编辑, 图片格式转换, 一键抠图, 修改证件照背景颜色, 图片压缩, 二维码生成, 二维码解析, ICO图标制作, 旋转图片方向等一些功能. 以及其他一堆开发者可能用得到的功能, 自称: 也许是最好用的工具网站😅.
 
 **图片**
 
